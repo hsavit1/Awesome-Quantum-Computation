@@ -9,7 +9,7 @@ An Awesome List of Quantum Computational Related Things
 - Links
 
 ###What is Quantum Computation?
-Quantum computers are different from digital computers based on transistors. Whereas digital computers require data to be encoded into binary digits (bits), each of which is always in one of two definite states (0 or 1), quantum computation uses quantum bits (qubits), which can be in superpositions of states. Quantum computing was the brainchild of the late and great physicist Richard Feynmean in the early 1980's, but only has materialized into a physical machine as of 2014 by D-Wave Systems. Hopefully we can continue to make great strides in this revolutionary industry so that we may tackle computing problems that were once deemed impossible!
+Quantum computers are different from digital computers based on transistors. Whereas digital computers require data to be encoded into binary digits (bits), each of which is always in one of two definite states (0 or 1), quantum computation uses quantum bits (qubits), which can be in superpositions of states. Quantum computing was the brainchild of the late and great physicist Richard Feynmean in the early 1980's, but only has materialized into a physical machine as of 2014 by D-Wave Systems. Hopefully we can continue to make great strides in this revolutionary industry so that we may tackle computing problems that were once deemed impossible
 
 For more information on this highly intriguing conjunction of quantum physics and computer science, check out some of the attached links
 
