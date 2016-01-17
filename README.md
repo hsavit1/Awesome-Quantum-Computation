@@ -13,6 +13,7 @@ Quantum computers are different from digital computers based on transistors. Whe
 
 For more information on this highly intriguing conjunction of quantum physics and computer science, check out some of the attached links
 
+- Programming the Quantum Future [Link](http://delivery.acm.org/10.1145/2700000/2699415/p52-valiron.pdf?ip=67.189.144.38&id=2699415&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=576045833&CFTOKEN=42742525&__acm__=1453053544_ff6f027e81e4c03ae2ef38daa2b25470)
 - Google's Quantum Computing Playground [Link](http://www.quantumplayground.net/#/playground/5191954035900416)
 - An Introduction to Quantum Algorithms [Link](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf)
 - EdX Quantum Computation Course [Link](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x)
@@ -40,4 +41,4 @@ For more information on this highly intriguing conjunction of quantum physics an
 
 ###Links
 - [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/#BBD09): A much more comprehensive list of algorithms
-- [My Website](http://itshenry.com/index), which has some good links
+- [My Website](http://itshenry.com/), which has some good links if you go to the Quantum Computation section
