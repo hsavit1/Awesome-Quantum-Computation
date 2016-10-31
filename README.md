@@ -52,3 +52,4 @@ For more information on this highly intriguing conjunction of quantum physics an
 - Quantum Processes, Systems, Information [Link](http://www.amazon.com/gp/product/052187534X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=052187534X&linkCode=as2&tag=thephoeroncom-20&linkId=47M34V2W4JDQU6WS)
 - Quantum Algos via Linear Algebra [Link](http://www.amazon.com/gp/product/0262028395/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262028395&linkCode=as2&tag=thephoeroncom-20&linkId=GLZ4KQ3B74I4XKAE)
 - Quantum Information, Computation, Communication [Link](http://www.amazon.com/gp/product/1107014468/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1107014468&linkCode=as2&tag=thephoeroncom-20&linkId=EWWHCU75Z43TP5FB)
+- Quantum Computing: Lecture Notes [Link](http://homepages.cwi.nl/~rdewolf/qcnotes.pdf)
