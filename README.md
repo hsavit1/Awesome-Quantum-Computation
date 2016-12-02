@@ -62,4 +62,5 @@ For more information on this highly intriguing conjunction of quantum physics an
 - Quantum Computing: Lecture Notes [Link](http://homepages.cwi.nl/~rdewolf/qcnotes.pdf)
 
 ### Classes
+- [Berkley edX Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) A simple conceptual introduction to quantum mechanics and quantum computation.
 - [University of Nottingham](http://drinkupthyzider.co.uk/asg/NSC/)
