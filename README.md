@@ -46,6 +46,7 @@ For more information on this highly intriguing conjunction of quantum physics an
 - [My Website](http://itshenry.com/), which has some good links if you go to the Quantum Computation section
 
 ###Games
+- [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - A simple conceptual introduction to quantum mechanics and quantum computation.
 - [MeQuanics](http://www.mequanics.com.au): The quantum computing game
 
 ### Watch 
@@ -59,3 +60,6 @@ For more information on this highly intriguing conjunction of quantum physics an
 - Quantum Algos via Linear Algebra [Link](http://www.amazon.com/gp/product/0262028395/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262028395&linkCode=as2&tag=thephoeroncom-20&linkId=GLZ4KQ3B74I4XKAE)
 - Quantum Information, Computation, Communication [Link](http://www.amazon.com/gp/product/1107014468/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1107014468&linkCode=as2&tag=thephoeroncom-20&linkId=EWWHCU75Z43TP5FB)
 - Quantum Computing: Lecture Notes [Link](http://homepages.cwi.nl/~rdewolf/qcnotes.pdf)
+
+### Classes
+- [University of Nottingham](http://drinkupthyzider.co.uk/asg/NSC/)
