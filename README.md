@@ -48,6 +48,12 @@ For more information on this highly intriguing conjunction of quantum physics an
 ###Games
 - [MeQuanics](http://www.mequanics.com.au): The quantum computing game
 
+### Watch 
+- [Quantum Computing 'Magic' - Computerphile](https://www.youtube.com/watch?v=BYx04e35Xso)
+
+### Listen 
+- [Computing’s Search for Quantum Questions](https://itunes.apple.com/us/podcast/quanta-science-podcast/id1021340531?mt=2#) - Quanta Magazine Podcast
+
 ###Read
 - Quantum Processes, Systems, Information [Link](http://www.amazon.com/gp/product/052187534X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=052187534X&linkCode=as2&tag=thephoeroncom-20&linkId=47M34V2W4JDQU6WS)
 - Quantum Algos via Linear Algebra [Link](http://www.amazon.com/gp/product/0262028395/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262028395&linkCode=as2&tag=thephoeroncom-20&linkId=GLZ4KQ3B74I4XKAE)
