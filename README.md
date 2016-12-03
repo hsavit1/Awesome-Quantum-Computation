@@ -51,6 +51,7 @@ For more information on this highly intriguing conjunction of quantum physics an
 
 ### Watch 
 - [Quantum Computing 'Magic' - Computerphile](https://www.youtube.com/watch?v=BYx04e35Xso)
+- [How does a quantum computer work?](https://www.youtube.com/watch?v=g_IaVepNDT4)
 
 ### Listen 
 - [Computing’s Search for Quantum Questions](https://itunes.apple.com/us/podcast/quanta-science-podcast/id1021340531?mt=2#) - Quanta Magazine Podcast
