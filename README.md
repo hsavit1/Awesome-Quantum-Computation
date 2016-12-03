@@ -52,7 +52,9 @@ For more information on this highly intriguing conjunction of quantum physics an
 ### Watch 
 - [Quantum Computing 'Magic' - Computerphile](https://www.youtube.com/watch?v=BYx04e35Xso)
 - [How does a quantum computer work?](https://www.youtube.com/watch?v=g_IaVepNDT4)
-- [How to make a quantum bit](How To Make a Quantum Bit)
+- [How to make a quantum bit](https://www.youtube.com/watch?v=zNzzGgr2mhk)
+- [Let's build a quantum computer!](https://www.youtube.com/watch?v=1PcseLsYZ9Y)
+- [Quantum Cooling to (Near) Absolute Zero](https://www.youtube.com/watch?v=7jT5rbE69ho&index=5&list=PLkahZjV5wKe_dajngssVLffaCh2gbq55_)
 
 ### Listen 
 - [Computing’s Search for Quantum Questions](https://itunes.apple.com/us/podcast/quanta-science-podcast/id1021340531?mt=2#) - Quanta Magazine Podcast
